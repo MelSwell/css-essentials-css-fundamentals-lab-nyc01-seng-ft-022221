@@ -10,7 +10,7 @@ header {
   align-items: center
 }
 
-section#featured-propery {
+#featured-propery {
   display: flex;
   align-items: center
 }
