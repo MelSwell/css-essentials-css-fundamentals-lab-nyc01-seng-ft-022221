@@ -12,5 +12,6 @@ header {
 
 #featured-propery {
   display: flex;
-  align-items: center
+  align-items: center;
+  background-color: black
 }
