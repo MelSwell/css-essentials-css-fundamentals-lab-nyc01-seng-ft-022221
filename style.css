@@ -13,7 +13,8 @@ header {
 #featured-property{
   display: flex;
   align-items: center;
-  flex-direction: column
+  flex-direction: column;
+  width: 50px
 }
 
 figcaption{
