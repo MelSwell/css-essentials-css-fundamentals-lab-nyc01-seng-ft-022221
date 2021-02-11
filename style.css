@@ -22,4 +22,5 @@ figcaption{
 
 #featured-property > p{
   color: blue
+  width: 50%;
 }
