@@ -24,3 +24,7 @@ figcaption{
   width: 60%;
   text-align: center
 }
+
+#details{
+  display: flex;
+}
