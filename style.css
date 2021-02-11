@@ -20,6 +20,6 @@ figcaption{
   text-align: center
 }
 
-p > section{
+p > section#featured-property{
   color: blue
 }
